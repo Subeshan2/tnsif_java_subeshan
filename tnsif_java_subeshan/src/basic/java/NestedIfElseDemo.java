@@ -1,4 +1,4 @@
-package day1.basics;
+package basic.java;
 
 public class NestedIfElseDemo {
 
@@ -8,13 +8,15 @@ public class NestedIfElseDemo {
 		if (a > b) {
 			if (a > c){
 				System.out.println(a);
-			else
+			}else {
 				System.out.println(c);
-		} else {
-			if (c > b)
+		 }}else {
+			if (c > b) {
 				System.out.println(c);
-			else
+			}
+			else {
 				System.out.println(b);
+		}
 		}
 
 	}

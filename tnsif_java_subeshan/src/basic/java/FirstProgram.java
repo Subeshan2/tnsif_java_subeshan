@@ -1,5 +1,5 @@
 //Demonstration of simple java program
-package day1.basics;
+package basic.java;
 import java.util.LinkedList ; //all subpackages
 
 public class FirstProgram {

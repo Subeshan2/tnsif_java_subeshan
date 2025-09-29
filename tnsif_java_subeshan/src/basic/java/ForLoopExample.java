@@ -1,5 +1,5 @@
 //Program to demonstrate for loop
-package day1.basics;
+package basic.java;
 
 public class ForLoopExample {
 	public static void main(String[] args) 

@@ -1,14 +1,12 @@
 package basic.java;
 
-public class BasicJava {
+public abstract class BasicJava {
+	
+	abstract void find();
 
-	public static void main(String[] args) {
-		for (int i = 5; i < 10; i++) {
-			if (i == 5)
-				break;
-			System.out.println(i);
-		}
-		
+}
+class GOW extends BasicJava{
+	void find(){
+		System.out.print("naveen is a culprit");
 	}
-
 }

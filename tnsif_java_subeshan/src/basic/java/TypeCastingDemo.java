@@ -1,5 +1,5 @@
 //Program to demonstrate type casting between primitive types
-package day1.basics;
+package basic.java;
 
 public class TypeCastingDemo {
 
