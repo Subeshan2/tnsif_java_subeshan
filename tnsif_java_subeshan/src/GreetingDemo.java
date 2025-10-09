@@ -1,4 +1,4 @@
-package com.tnsif.interfacedemo;
+package com.subeshan.assignment;
 
 @FunctionalInterface
 public interface GreetingDemo {
